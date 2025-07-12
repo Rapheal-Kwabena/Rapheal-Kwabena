@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="mailto:raphealasomanikwabena@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rapheal-kwabena-asomani-gadoh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/younggem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/your_handle_here"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.youtube.com/@your_channel_name"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
@@ -63,9 +63,9 @@
 
 | Project | Description |
 |:-------:|:------------|
-| 🎧 [Audiobook Summary Platform](https://github.com/Rapheal-Kwabena/Audiobook-Summary-Website) | Transform long audiobooks into AI-powered summaries. |
-| 🌿 [Environmental AI Chatbot](https://github.com/Rapheal-Kwabena/Environmental-Chatbot) | Analyzes environmental images & provides insights. |
-| 🏫 [Edu Learn Quiz Platform](https://github.com/Rapheal-Kwabena/Edu-Learn) | Test & improve your learning with dynamic quizzes. |
+| 🎧 [Audiobook Summary Platform](https://github.com/Rapheal-Kwabena/Audiobook-Summary-Website) | Transform long audiobooks into AI-powered summaries. |Still in transition|
+| 🌿 [Environmental AI Chatbot](https://github.com/Rapheal-Kwabena/Environmental-Chatbot) | Analyzes environmental images & provides insights. |Still in transition|
+| 🏫 [Edu Learn Quiz Platform](https://github.com/Rapheal-Kwabena/Edu-Learn) | Test & improve your learning with dynamic quizzes. |Still in transition|
 
 ---
 
