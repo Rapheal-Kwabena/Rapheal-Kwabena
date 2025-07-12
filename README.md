@@ -8,33 +8,44 @@
 
 ---
 
-## 👨‍💻 About Me
+## ⚙️ GitHub Metrics
 
-- 💡 Passionate about **software engineering**, **AI-powered solutions**, and **renewable energy tech**.
-- 🛠️ Currently building: **AI-powered environmental chatbot** & **audiobook summary platform**.
-- 🌍 Based in **Ghana**, collaborating globally.
-- 🚴‍♂️ Fun fact: **Cycling + Robotics** both fuel my creativity!
+[![GitHub Metrics](https://metrics.lecoq.io/Rapheal-Kwabena?template=classic&base.indepth=false&base.hireable=false&config.timezone=Africa%2FAccra)](https://metrics.lecoq.io/Rapheal-Kwabena)
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,arduino,figma&perline=5&theme=light" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,arduino,figma&perline=8" />
 </p>
 
 ---
 
-## ⚡ GitHub Stats & Contributions
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rapheal-Kwabena&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rapheal-Kwabena&show_icons=true&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rapheal-Kwabena&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rapheal-Kwabena&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapheal-Kwabena&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rapheal-Kwabena&theme=radical&no-frame=true&row=1" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapheal-Kwabena&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rapheal-Kwabena&theme=radical&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rapheal-Kwabena&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -49,19 +60,16 @@
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rapheal-kwabena-asomani-gadoh">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your_handle_here">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Banner" />
+  <a href="https://www.youtube.com/@your_channel_name">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
