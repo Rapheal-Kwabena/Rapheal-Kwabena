@@ -1,20 +1,41 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Rapheal+Kwabena+Asomani+Gadoh;Creative+Software+Engineer+%7C+AI+Enthusiast;Coding+Innovative+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h1 align="center">👋 Hey Everyone, I'm Rapheal</h1>
+
+<h3 align="center">Welcome to My GitHub Universe!</h3>
+
+---
+
+- 💻 Building AI-powered tools and educational platforms.
+- 🌱 Focused on learning, teaching, and empowering communities.
+- 🚴 Passionate about cycling, robotics, and technology for good.
+- 🌍 Open to collaboration on AI, education, and environmental projects.
+- 📲 Offering AI and software solutions for social impact.
+
+---
 
 <p align="center">
-  <img src="https://github.com/rapheal-kwabena/rapheal-kwabena/assets/your-animation.gif" width="200px" alt="Anime Avatar with Lighting Effects" />
+  <a href="mailto:rapheal.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rapheal-kwabena-asomani-gadoh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your_handle_here"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@your_channel_name"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚙️ GitHub Metrics
+## 📊 GitHub Stats & Metrics
 
-[![GitHub Metrics](https://metrics.lecoq.io/Rapheal-Kwabena?template=classic&base.indepth=false&base.hireable=false&config.timezone=Africa%2FAccra)](https://metrics.lecoq.io/Rapheal-Kwabena)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rapheal-Kwabena&show_icons=true&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapheal-Kwabena&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rapheal-Kwabena&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 🚀 Technologies & Tools
+## 💡 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,arduino,figma&perline=8" />
@@ -22,30 +43,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Badges & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rapheal-Kwabena&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rapheal-Kwabena&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapheal-Kwabena&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rapheal-Kwabena&theme=radical&row=1&no-frame=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rapheal-Kwabena&theme=radical&no-frame=true&row=1" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rapheal-Kwabena&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rapheal-Kwabena&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -60,16 +69,6 @@
 
 ---
 
-## 📬 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/rapheal-kwabena-asomani-gadoh">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your_handle_here">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@your_channel_name">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
