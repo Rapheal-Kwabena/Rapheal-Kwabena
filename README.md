@@ -1,101 +1,136 @@
 <div align="center">
 
-# Hey, I'm Rapheal 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there%2C+I'm+Rapheal+👋;AI+Developer+%7C+Builder+%7C+Innovator;Turning+Ideas+into+Impact+🚀)
 
-**AI Developer · Builder · Problem Solver**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Gmail](https://img.shields.io/badge/Email-raphealasomanikwabena@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raphealasomanikwabena@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-younggem-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younggem/)
+[![Gmail](https://img.shields.io/badge/Email-raphealasomanikwabena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphealasomanikwabena@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-younggem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younggem/)
+![Profile Views](https://komarev.com/ghpvc/?username=Rapheal-Kwabena&style=for-the-badge&color=58A6FF)
 
 </div>
 
 ---
 
-## About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-I'm an AI developer passionate about building tools that create real impact — in education, the environment, and communities. I believe code is a vehicle for change, and I'm focused on making that change happen.
-
-- 🤖 Building AI-powered tools and educational platforms
-- 🌍 Working on environmental tech and sustainability solutions
-- 🚴 Cycling enthusiast with a love for robotics and hardware
-- 📚 Always learning, always teaching
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+```yaml
+name: Rapheal Asomani Kwabena
+role: AI Developer & Builder
+location: Ghana 🇬🇭
+focus:
+  - AI-powered educational tools
+  - Environmental tech solutions
+  - Community-driven platforms
+  - Social impact through software
+passions:
+  - Cycling 🚴
+  - Robotics & Hardware
+  - Open Source Collaboration
+currently_learning: Advanced ML · NLP · Quantum Computing
+open_to: Collaborations · Mentorship · Speaking · Partnerships
+```
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,java,cpp&theme=dark" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,django,tailwind,bootstrap&theme=dark" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,firebase,arduino&theme=dark" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite&theme=dark" />
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### 🎧 Audiobook Summary Platform
-> Transforms long audiobooks into concise, AI-powered summaries with key insights extracted automatically.
+**Transform long audiobooks into AI-powered summaries**
 
-![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/Rapheal-Kwabena/Audiobook-Summary-Website)
+🤖 Advanced AI processing  
+📚 Smart content extraction  
+🎯 Key insights generation  
 
----
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Rapheal-Kwabena/Audiobook-Summary-Website)
+
+</td>
+<td width="50%" align="center">
 
 ### 🌿 Environmental AI Chatbot
-> Analyzes environmental images and provides sustainability insights using computer vision and AI.
+**Analyzes environmental images & provides sustainability insights**
 
-![Status](https://img.shields.io/badge/Status-In_Transition-blue?style=flat)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/Rapheal-Kwabena/Environmental-Chatbot)
+🌍 Environmental analysis  
+📸 Image recognition  
+💡 Sustainability insights  
 
----
+![Status](https://img.shields.io/badge/Status-In_Transition-blue?style=flat-square)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Rapheal-Kwabena/Environmental-Chatbot)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 ### 🏫 Edu Learn Quiz Platform
-> An interactive quiz and learning platform with progress tracking and personalized experiences.
+**Test & improve your learning with dynamic quizzes**
 
-![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/Rapheal-Kwabena/Edu-Learn)
+🎓 Interactive learning · 📊 Progress tracking · 🎯 Personalized experience
+
+![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Rapheal-Kwabena/Edu-Learn)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rapheal-Kwabena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapheal-Kwabena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rapheal-Kwabena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rapheal-Kwabena&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapheal-Kwabena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a97e-1bf78a2b5146.gif" width="30"> Achievements
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rapheal-Kwabena&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rapheal-Kwabena&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&no-bg=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rapheal-Kwabena&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true" />
 
 </div>
 
@@ -103,27 +138,40 @@ I'm an AI developer passionate about building tools that create real impact — 
 
 ## 🎯 2025 Goals
 
-- [ ] Complete and launch 3 major open-source projects
-- [ ] Publish educational content and tutorials
-- [ ] Build a community around sustainable technology
-- [ ] Dive deeper into AI/ML and NLP research
-- [ ] Launch a mobile app for social impact
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                    🚀 2025 ROADMAP                       ║
+╠══════════════════════════════════════════════════════════╣
+║  ✅ Master Advanced AI/ML & NLP Techniques               ║
+║  🔄 Complete & Launch 3 Major Open Source Projects       ║
+║  📚 Publish Educational Content & Dev Tutorials          ║
+║  🌍 Collaborate on Environmental Tech Solutions          ║
+║  🎯 Build Community Around Sustainable Technology        ║
+║  📱 Launch Mobile App for Social Impact                  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-## 🤝 Let's Collaborate
-
-I'm open to collaboration on **AI projects**, **educational platforms**, **environmental tech**, and **open-source**. Whether you want to build together, need a mentor, or have an interesting idea — reach out.
-
-[![Email Me](https://img.shields.io/badge/Email_Me-raphealasomanikwabena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphealasomanikwabena@gmail.com)
-
----
+## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c3d-9f9b-3a7a8a5b4e5f.gif" width="30"> Let's Build Something Amazing
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rapheal-Kwabena&style=flat&color=58A6FF)
-[![GitHub followers](https://img.shields.io/github/followers/Rapheal-Kwabena?style=flat&color=58A6FF)](https://github.com/Rapheal-Kwabena)
+**I'm open to collaborating on AI · Education · Environmental Tech · Open Source**
 
-*Thanks for visiting — feel free to ⭐ a repo if something catches your eye!*
+Whether you want to build together, need a mentor, or just have a cool idea — let's talk.
+
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphealasomanikwabena@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Rapheal-Kwabena?style=for-the-badge&color=58A6FF&logo=github)](https://github.com/Rapheal-Kwabena)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+*Thanks for stopping by — feel free to ⭐ a repo if something catches your eye!*
+
+**Happy Coding! 🚀✨**
 
 </div>
