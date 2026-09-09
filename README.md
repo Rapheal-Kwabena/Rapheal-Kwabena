@@ -17,7 +17,7 @@
 ```yaml
 name: Rapheal Asomani Kwabena
 role: AI Developer & Builder
-location: Ghana 🇬🇭
+location: United States 
 focus:
   - AI-powered educational tools
   - Environmental tech solutions
